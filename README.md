@@ -16,3 +16,6 @@ The function accepts following parameters
 - callback (Optional) - pass the 'fade' function as this parameter if chained action required
 - cel - object of element for second chained action (mandatory if callback function is passed)
 
+Working Example: [Follow this JS Fiddle]
+
+[Follow this JS Fiddle]: https://jsfiddle.net/cynx/x6v2gapw/30/
