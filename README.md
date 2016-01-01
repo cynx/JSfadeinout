@@ -5,7 +5,7 @@ This function can be used to perform following actions
 
 - Fade in and out
 - Fade out and in
- - Fade in
+- Fade in
 - Fade out
 
 The function accepts following parameters
